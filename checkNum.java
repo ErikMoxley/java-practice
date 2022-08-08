@@ -1,6 +1,7 @@
 public class checkNum {
     public static void main(String[] args) {
-        String string = "number";
+        // Add number below for true and anything else for false/else
+        String string = "12";
         boolean numeric = true;
 
         try {
@@ -15,3 +16,5 @@ public class checkNum {
             System.out.println(string + " is not a number");
     }
 }
+
+// run code to see result
